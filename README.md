@@ -1,22 +1,19 @@
 ### Hi there 👋
 
-I'm Alecx Moritz, an Indianapolis based full stack JavaScript engineer. When I'm not coding, I'm cooking, playing games, watching TV, or spendig time with my cats, family, or partner.
+I'm Alecx Moritz, an Indianapolis based front end software engineer.
 
+
+- 🔭 I’m currently working on: building a component library for personal projects
+- 🌱 I’m currently learning: the 🫀 of JavaScript
+- 👯 I’m looking to collaborate on: Non-profit software
+- 🤔 I’m looking for help with: Mentorship 🔍
+- 💬 Ask me about: my Animal Crossing island
+- 📫 How to reach me: Easiest is through Twitter, for formal messaging you can shoot me an email @ alecxmoritz@gmail.com
+- 😄 Pronouns: she/they
+- ⚡ Fun fact: A killer whale has never killed a human in the wild.
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/consoledotyikes.svg?style=social&label=Follow%20%40consoledotyikes)](https://twitter.com/consoledotyikes)
 
 [![Alecx's github stats](https://github-readme-stats.vercel.app/api?username=alecxmoritz&count_private=true&show_icons=true&theme=synthwave&langs_count=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-- 🔭 I’m currently working on - Implementing web accessibility on a NextJs project
-- 🌱 I’m currently learning - MongoDB & Clojure
-- 👯 I’m looking to collaborate on - Nothing right now, my plate is pretty full ATM
-- 🤔 I’m looking for help with - finding a mentor
-- 💬 Ask me about - Neon Geneis Evangelion or Serial Experiments Lain
-- 📫 How to reach me - Send me an email at alecxmoritz@gmail.com
-- 😄 Pronouns - sher/her
-- ⚡ Fun fact - I competitively solved Rubik's cubes in high school
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecxmoritz&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-Let's connect!
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/consoledotyikes.svg?style=social&label=Follow%20%40consoledotyikes)](https://twitter.com/consoledotyikes)
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecxmoritz&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) --->
