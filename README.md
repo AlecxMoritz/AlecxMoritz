@@ -1,25 +1,8 @@
 ```console
-C:\Users\alecx\code\am> tsc
-C:\Users\alecx\code\am> npm run am
-
-MMO. ..'',;,. .;,'....   .,;:cc,''.. ..';;...;,'.  lWMM
-MMO. .'',,'.  .'... .;o, .,;;:;,..    .',,. .,,'.  lWMM
-MMO. .',;'.   ...  .'lOxo:...,,..........'. .'''.  lWMM
-MMO. ...'.     .    ..,lkl. .'.   ...        ....  lWMM
-MMO.  ...   ;oooooooooo:,,;;,..:oooooooool.   ...  lWMM
-MM0,.      .l0XNXO0NWKk: .,;' .lOXWXOKNX0x'    ....dWMM
-MM0c..      ,lONOloOOo:.  ...  'cdOxlxXKd:.      .,xWMM
-MM0c''..   .ckKWKxollcc' .oxc. ,cllodOWNOd'    .'',xWMM
-MMXdcoo,....cxkOxlcccc:,.;dOo,.;:ccccoOOxo,.. .collOWMM
-MMWWXx:;';cc'..........:kO00OOd,..........;l:',:l0NWMMM
-MMMMMNKd;:looodxkkkxxxxk000O00Okxxxkkkxxdoooc;l0XWMMMMM
-MMMMMMMNKxc:ldxkO00000000kl:ok00000OOOOkxoc;o0XWMMMMMMM
-MMMMMMMMMN0xl::cokOOOO000OxdxO000OOkkdc:::dOKWMMMMMMMMM
-
-
-Hey folks, I'm Alecx. I write sofware, sometimes it even works.
+I write software, sometimes it even works.
 ```
-
+<br >
+<br >
 <div align="center">
   
   ![Pronouns](https://img.shields.io/badge/Pronouns-They%2FThem-FF69B4)
@@ -32,7 +15,9 @@ Hey folks, I'm Alecx. I write sofware, sometimes it even works.
   
 </div>
 
+<!---
 ------
+
 
 ### Engineering
 
@@ -63,7 +48,7 @@ Hey folks, I'm Alecx. I write sofware, sometimes it even works.
   ![ESLint](https://img.shields.io/badge/-ESLint-ad58d5?logo=eslint.js&logoColor=white)
   
 </div>
-
+--->
 
 <!-- [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/consoledotyikes.svg?style=social&label=Follow%20%40consoledotyikes)](https://twitter.com/consoledotyikes)
 
